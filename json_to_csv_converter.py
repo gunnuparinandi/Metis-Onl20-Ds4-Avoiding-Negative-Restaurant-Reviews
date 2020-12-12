@@ -3,7 +3,7 @@
 
 Original code from : https://github.com/Yelp/dataset-examples
 
-Written orginally by Scott Clark. Parinandi converted updated code from Python 2 to Python 3 
+Written orginally by Scott Clark. Parinandi updated code from Python 2 to Python 3 
 
 """
 import argparse
